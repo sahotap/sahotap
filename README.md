@@ -1,4 +1,3 @@
-# Hi there, I'm Puneet (sahotap) 👋
 <p align="center">
   <img src="https://raw.githubusercontent.com/sahotap/sahotap/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
